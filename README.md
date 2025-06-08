@@ -71,4 +71,4 @@ This project highlights the importance of using data-driven reports for:
 ## File Format
 The final report is available in Microsoft Excel format (.xlsx).
 
-All financials are reported in USD.
+All financials are reported in INR.
